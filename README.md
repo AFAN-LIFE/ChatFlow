@@ -35,8 +35,10 @@ ChatFlow由大模型、指令库、客户端、数据库共同组成了流程管
 
 - 李一繁，负责整体项目运作，github：fcncassandra，微信号：afan-life
 
-- 程志鹏，负责前端开发，github：ChzpMax
-
 - 蒋凯，负责后端开发，github：j5255089
 
-![](README.assets/2023-10-20-02-49-10-image.png)
+- 程志鹏，负责前端开发，github：ChzpMax
+
+- 苏金子涵，负责大模型算法，github：sujinzihan
+
+![](README.assets/2023-10-20-14-06-56-image.png)
